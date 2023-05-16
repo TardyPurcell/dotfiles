@@ -71,6 +71,7 @@ window:
   # Window opacity as a floating point number from `0.0` to `1.0`.
   # The value `0.0` is completely transparent and `1.0` is opaque.
   #opacity: 1.0
+  opacity: 0.85
 
   # Startup Mode (changes require restart)
   #
@@ -82,6 +83,7 @@ window:
   # Values for `startup_mode` (macOS only):
   #   - SimpleFullscreen
   #startup_mode: Windowed
+  startup_mode: Fullscreen
 
   # Window title
   #title: Alacritty
@@ -177,6 +179,7 @@ font:
 
   # Point size
   #size: 11.0
+  size: 20.0
 
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter

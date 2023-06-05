@@ -3,4 +3,4 @@
 	url = https://github.com/alacritty/alacritty-theme.git
 [submodule "nvim"]
 	path = nvim
-	url = git@github.com:TardyPurcell/kickstart.nvim.git
+	url = https://github.com/TardyPurcell/kickstart.nvim.git
